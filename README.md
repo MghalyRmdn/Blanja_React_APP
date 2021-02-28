@@ -35,12 +35,12 @@ sellers.
 - [`Node Js`](https://nodejs.org/en/)
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`ReactJs`](https://reactjs.org/)
-- [`Blanja Backend`](https://github.com/Baruak-da-Familia/blanja-api.git)
+- [`Blanja Backend`](https://github.com/MghalyRmdn/Blanja_API.git)
 
 ## Installation for Development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/Baruak-da-Familia/blanja-frontend.git`
+2. Type `git clone https://github.com/MghalyRmdn/Blanja_React_APP.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Create file **_.env_** in root directory with the following contents :
 
@@ -71,16 +71,17 @@ REACT_APP_WEB_URL = "http://localhost:3000"
 ## Screenshoots
 
 <div align="center">
-    <img width="100%" src="./src/assets/image/screenshoot1.png">
-    <img width="100%" src="./src/assets/image/screenshoot2.png">
-    <img width="100%" src="./src/assets/image/screenshoot3.png">
+    <img width="100%" src="./src/assets/image/Screenshoot1.png">
+    <img width="100%" src="./src/assets/image/Screenshoot2.png">
+    <img width="100%" src="./src/assets/image/Screenshoot3.png">
+    <img width="100%" src="./src/assets/image/Screenshoot4.png">
 </div>
 
 ## Demo Blanja Web
 
 This is Blanja Web build version, let's try it.
 
-<a href="http://54.175.146.137:3000/">
+<a href="http://bit.ly/3ksBjey">
   <img src="https://img.shields.io/badge/Blanja%20Web-Link%20Demo-blue.svg?style=popout&logo=firefox"/>
 </a>
 
@@ -88,6 +89,6 @@ This is Blanja Web build version, let's try it.
 
 RESTful API for this web application, clone this for development Blanja Web.
 
-<a href="https://github.com/Baruak-da-Familia/blanja-api.git">
+<a href="https://github.com/MghalyRmdn/Blanja_API.git">
 <img src="https://img.shields.io/badge/Blanja%20Backend-Repository-blue.svg?style=popout&logo=github"/>
 </a>
